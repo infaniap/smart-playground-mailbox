@@ -1,3 +1,13 @@
+"""
+Smart Playground Distributed Embedded System
+Author: Infania Pimentel
+Affiliation: Tufts University CEEO
+Year: 2025
+
+Description:
+Relay node firmware. Coordinates message routing between devices, manages connection logic, and ensures state synchronization across nodes.
+"""
+
 import time
 from machine import Pin
 import neopixel

@@ -1,3 +1,13 @@
+"""
+Smart Playground Distributed Embedded System
+Author: Infania Pimentel
+Affiliation: Tufts University CEEO
+Year: 2025
+
+Description: Mailbox node firmware. Handles user input (slider/button), manages local LED state, and initiates communication events to the relay node.
+
+"""
+
 # === ESP1: Mailbox UI (Color Selector) ===
 import machine, neopixel, time
 from machine import Pin, ADC

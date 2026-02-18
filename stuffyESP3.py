@@ -1,3 +1,13 @@
+"""
+Smart Playground Distributed Embedded System
+Author: Infania Pimentel
+Affiliation: Tufts University CEEO
+Year: 2025
+
+Description:
+Plushie node firmware. Receives routed messages, updates LED feedback, and maintains device interaction state.
+"""
+
 import time
 from machine import Pin
 import neopixel

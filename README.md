@@ -1,4 +1,4 @@
-# Smart Playground — Distributed Embedded Interaction System
+# Smart Playground: Distributed Embedded Interaction System
 
 Developed as part of the Smart Playground Initiative at the Tufts Center for Engineering Education and Outreach (CEEO).
 
